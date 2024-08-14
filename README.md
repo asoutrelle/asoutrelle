@@ -1,2 +1,4 @@
-# About me
-![image](https://github.com/user-attachments/assets/fda33390-182d-4daf-860e-048445d474c2)
+# ![Animation - 1723656386638](https://github.com/user-attachments/assets/7b01d054-79a8-4656-a14b-678705df37da) AXEL SOUTRELLE ![Animation - 1723656386638](https://github.com/user-attachments/assets/7b01d054-79a8-4656-a14b-678705df37da)
+- [ ] ing. en Sistemas
+- [ ] Novia
+- [x] Gato
