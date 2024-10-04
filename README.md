@@ -3,4 +3,4 @@
 - [ ] Novia
 - [x] Gato
 > [!NOTE]
-> Esto es un testeo para el informe de Fundamentos.
+> No quiero dedicarme al análisis de datos
