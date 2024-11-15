@@ -4,3 +4,5 @@
 - [x] Gato
 > [!NOTE]
 > No quiero dedicarme al análisis de datos
+
+[xd](resources/output.gif)
