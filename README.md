@@ -5,4 +5,4 @@
 > [!NOTE]
 > No quiero dedicarme al análisis de datos
 
-[xd](resources/output.gif)
+![xd](resources/output.gif)
