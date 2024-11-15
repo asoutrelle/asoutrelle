@@ -3,6 +3,4 @@
 - [ ] Novia
 - [x] Gato
 > [!NOTE]
-> No quiero dedicarme al análisis de datos
-
-![xd](resources/output.gif)
+> No quiero dedicarme al análisis de dato
